@@ -29,10 +29,7 @@ The clusters are visualized in a scatterplot with:
 - Python 3.8+
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `sklearn`, `kagglehub`
 
-## How to Run
-1. Clone this repository.
-2. Install the required libraries using `pip install -r requirements.txt`.
-3. Run the `customer_segmentation.py` script.
+
 
 ## Results
 The clustering analysis revealed distinct customer segments based on their billing patterns and subscription details.
@@ -45,12 +42,6 @@ This segmentation can help businesses:
 
 ---
 
-### Sample Visualization
-Below is an example of the scatterplot visualization:
 
-![Cluster Visualization](image.png)
 
----
 
-## License
-This project is open-source and available under the MIT License.
